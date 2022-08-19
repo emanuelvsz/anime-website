@@ -1,0 +1,28 @@
+{
+    "animes" : [
+        {
+            "title":"Naruto Shipuuden",
+            "releaseDate" : 2007,
+            "description":"Naruto Shippuden é a continuação da primeira parte do mangá Naruto, e continua a mesma linha da história após a passagem de dois anos e meio no universo Naruto.",
+            "creator":"Masashi Kishimoto"
+        },
+        {
+            "title":"Dragon Ball Z",
+            "releaseDate" : 1989,
+            "description":"As aventuras de um poderoso guerreiro chamado Goku, seu filho Gohan e seus aliados, que se esforçam para defender a Terra das ameaças. Eles são auxiliados por um dragão que concede os desejos de quem quer que reúna as sete Esferas do Dragão.",
+            "creator":"Akira Toriyama"
+        },
+        {
+            "title":"One Piece",
+            "releaseDate" : 1997,
+            "description":"One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. Os capítulos têm sido serializados na revista Weekly Shōnen Jump desde 22 de julho de 1997, com os capítulos compilados e publicados em 103 volumes tankōbon pela editora Shueisha até agosto de 2022. One Piece conta as aventuras de Monkey D. Luffy",
+            "creator":"Eiichiro Oda"
+        },
+        {
+            "title":"One Punch Man",
+            "releaseDate" : 2012,
+            "description":"One Punch-Man é uma série de webcomic criada pelo autor com o pseudónimo One, e é publicada desde 2009. A série rapidamente tornou-se um fenómeno viral, alcançando mais de 7,9 milhões de acessos, em junho de 2012.",
+            "creator":"One"
+        }
+    ]
+}
