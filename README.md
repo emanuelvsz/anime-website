@@ -1,2 +1,2 @@
 # anime-website
-site para ver animes, apenas para uso recreativo
+site cópia do site animesonlinegg, feito apenas para uso recreativo
